@@ -1,0 +1,77 @@
+* {
+    -moz-box-sizing: border-box;
+    /* Firefox 1, probably can drop this */
+    -webkit-box-sizing: border-box;
+    /* Safari 3-4, also probably droppable */
+    box-sizing: border-box;
+    /* Everything else */
+}
+
+body {}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    position: fixed;
+    min-height: 110px;
+    width: 100%;
+    left: 0;
+    background: $medium;
+    padding: 0 20px;
+    .logo {
+        max-width: 80px;
+        margin-top: 20px;
+        float: left;
+    }
+    nav {
+        clear: both;
+        float: right;
+        text-align: right;
+    }
+}
+
+.wrapper {
+    padding-top: 110px;
+    padding: 110px 4% 0 4%;
+}
+
+.hidesm {
+    display: none;
+}
+
+@media screen and (min-width: 600px) {
+    header {
+        width: 220px;
+        height: auto;
+        top: 0;
+        bottom: 0;
+        padding: 0 25px;
+        .logo {
+            max-width: 125px;
+            margin: 20px 0 10px 0;
+            float: none;
+        }
+        nav {
+            margin-top: 30px;
+            text-align: left;
+            float: none;
+
+        }
+    }
+    .wrapper {
+        padding-top: 40px;
+        padding-left: 260px;
+        margin: 0 auto;
+        max-width: 1000px;
+    }
+    code {
+        background: $light;
+    }
+    .hidesm {
+        display: block;
+    }
+}
+
+/*media*/
