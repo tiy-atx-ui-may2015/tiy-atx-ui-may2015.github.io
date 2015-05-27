@@ -9,7 +9,7 @@ desc: An overview of Web Design, mac basics, HTML and CSS basics, Github and Cod
 ## Week {{ page.week }}
 This week, we cover topics including: {{ page.desc }}
 
-* Monday (no class)
+* Monday (no class—Memorial day)
 * [Tuesday]({{ site.url }}/week{{ page.week }}/01.html)
 * [Wednesday]({{ site.url }}/week{{ page.week }}/02.html)
 * [Thursday]({{ site.url }}/week{{ page.week }}/03.html)
