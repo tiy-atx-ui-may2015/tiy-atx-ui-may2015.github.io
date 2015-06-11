@@ -109,13 +109,11 @@ code {
   background: rbga(#b2e0c9, 0.3);
   padding: 2px; }
 
-* {
-  -moz-box-sizing: border-box;
-  /* Firefox 1, probably can drop this */
-  -webkit-box-sizing: border-box;
-  /* Safari 3-4, also probably droppable */
-  box-sizing: border-box;
-  /* Everything else */ }
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
 
 img {
   max-width: 100%; }
