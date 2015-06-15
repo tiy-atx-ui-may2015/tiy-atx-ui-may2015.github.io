@@ -10,7 +10,10 @@ The class begins May 26th at Building C, suite 304 at Penn Field.
 By this time students have completed the required Prework.
 
 ### Contact
-Sam Kapila, Web Design Instructor: sam@theironyard.com
+Sam Kapila, Design Instructor: sam@theironyard.com
+Abby Larner, Assistant Instructor: abby@theironyard.com
+
+Travis Swicegood, Campus Director: travis@theironyard.com
 
 ### Hours
 Class is Monday through Thursday 9am–12pm, and lab hours are 1-5pm Monday through Thursday, and 9am-12pm and 1-5pm on Friday. The lab space is available for student use 24/7 in building K and most of the day in building C.
