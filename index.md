@@ -11,6 +11,7 @@ By this time students have completed the required Prework.
 
 ### Contact
 Sam Kapila, Design Instructor: sam@theironyard.com
+
 Abby Larner, Assistant Instructor: abby@theironyard.com
 
 Travis Swicegood, Campus Director: travis@theironyard.com
