@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"grey",
+				"grey-color-light"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_sass/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 1148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "week3/13.md",
+			"settings":
+			{
+				"buffer_size": 2117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "week3/14.md",
+			"settings":
+			{
+				"buffer_size": 2178,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"w3",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"border",
+				"Snippet: border-color"
+			],
+			[
+				"",
+				"Snippet: border-style:dashed"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 545.0
+	},
+	"console":
+	{
+		"height": 88.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/_sass",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/week1"
+	],
+	"file_history":
+	[
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/_sass/_reset.scss",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/_sass/_type.scss",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/_sass/_color.scss",
+		"/Users/samkap/Dropbox (Personal)/_Designer/Conference_Stuff/SamKapila_bios.md",
+		"/Users/samkap/GitHub/sk copy 2/gathering/wp-includes/js/wp-backbone.js",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/assignments/04b.md",
+		"/Users/samkap/pizza/css/reset.css",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/assignments/04c.md",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/week1/04.md",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/assignments/04a.md",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/assignments/04d.md",
+		"/Users/samkap/Dropbox (Personal)/HTMLCSStemplate/stylesheets/reset.css",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/week1/01.md",
+		"/Users/samkap/GitHub/_ui-may-2015/tiy-atx-ui-may2015.github.io/assignments/01.md",
+		"/Users/samkap/Documents/iron_yard/tiy_lectures/day_01/style.css",
+		"/Users/samkap/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/samkap/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/samkap/Dropbox (Personal)/HTMLCSStemplate/stylesheets/style.css",
+		"/Users/samkap/Dropbox (Personal)/HTMLCSStemplate/index.html",
+		"/Users/samkap/Library/Caches/TemporaryItems/about.php",
+		"/Users/samkap/Library/Caches/TemporaryItems/about.txt",
+		"/Users/samkap/GitHub/wd-jan-2015/Onboarding/index.html",
+		"/Users/samkap/GitHub/_ui-may-2015/pre-work-plus/index.html",
+		"/Users/samkap/GitHub/_ui-may-2015/pre-work/index.html",
+		"/Users/samkap/Desktop/index.html",
+		"/Users/samkap/GitHub/_wd-jan-2015/students/xinyu/tiy-assignments/day_07/HTMLCSSchecklist/README.md",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/DE3F1C06-0A0B-4402-B7E6-D752D74738F5/_old.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/798B9D9E-5404-409C-8119-F324C396094E/about.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/1CC9BD46-D7AF-45C3-9325-5035F612CD86/article.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/AEC6CF5C-BD6C-4BB0-969D-82E46B755B7D/blog.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/3E2F302B-F892-49F6-A3A7-68EEB0D8523C/blog2.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/94A3C74B-A2CE-42EB-91A1-7008EBBDC80C/blogarticle.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/66E72576-49BE-4B6C-8426-EABC1BC12425/clips.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/5068DF80-6D14-417A-A53B-40EA02DDAF8B/contact.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/3D0E0E88-A5D8-4397-9D88-C694D80594EA/default.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/2B0D320E-8A12-44ED-AEE2-F82C914EC0D3/error.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/8C27A17A-F9FA-4623-B099-2CA2078389C8/feed.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/E61DAFF3-F46D-43A9-B77E-13B7418A1B3F/food.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/45D546AF-A782-498E-97EA-5C3B753784CD/project.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/0D0B4D5C-C79F-4438-A41F-5C9C882DA4B2/projects.php",
+		"/Users/samkap/Desktop/pitch ideas.md",
+		"/Users/samkap/Downloads/Chrome/responsiveiframe-master/demo/child.html",
+		"/Users/samkap/Downloads/Chrome/responsiveiframe-master/demo/index.html",
+		"/Users/samkap/Dropbox (Personal)/_Designer/Writing/NetMagCuratedGallery264_SamKapila/JurassicWorld.com/Jurassic World.md",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/61681D93-BBC9-4388-AD0D-AE4DB09E9EE2/contact.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/97340C71-19AC-46F1-9EF5-8EF8F018B5FB/about.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/5DD0FE82-5B4A-4B03-8C2B-FAA8ED1785FB/header.php",
+		"/Users/samkap/GitHub/burkyburk.github.io/_includes/pagination.html",
+		"/Users/samkap/GitHub/burkyburk.github.io/blog/index.html",
+		"/Users/samkap/GitHub/design-starter-kit/_config.yml",
+		"/Users/samkap/GitHub/burkyburk.github.io/_config.yml",
+		"/Users/samkap/GitHub/burkyburk.github.io/blog.html",
+		"/Users/samkap/GitHub/burkyburk.github.io/index.html",
+		"/Users/samkap/GitHub/burkyburk.github.io/blog/_layouts/page.html",
+		"/Users/samkap/GitHub/burkyburk.github.io/blog/_layouts/default.html",
+		"/Users/samkap/GitHub/burkyburk.github.io/blog/_layouts/post.html",
+		"/Users/samkap/Downloads/Chrome/burkyburk.github.io-master/blog/_site/index.html",
+		"/Users/samkap/Downloads/Chrome/burkyburk.github.io-master/blog/css/main.scss",
+		"/Users/samkap/Downloads/Chrome/dawndelatte.github.io-master/_layouts/about.html",
+		"/Users/samkap/GitHub/austin-demo-day/3-design.md",
+		"/Users/samkap/GitHub/austin-demo-day/css/main.scss",
+		"/Users/samkap/GitHub/austin-demo-day/staff/5-nathan.md",
+		"/Users/samkap/GitHub/austin-demo-day/0-about-the-iron-yard.md",
+		"/Users/samkap/GitHub/austin-demo-day/_includes/header.html",
+		"/Users/samkap/GitHub/austin-demo-day/_sass/_layout.scss",
+		"/Users/samkap/GitHub/austin-demo-day/2-rails-engineering.md",
+		"/Users/samkap/GitHub/austin-demo-day/1-front-end-engineering.md",
+		"/Users/samkap/GitHub/austin-demo-day/_layouts/default.html",
+		"/Users/samkap/GitHub/austin-demo-day/staff/aaron copy.md",
+		"/Users/samkap/GitHub/austin-demo-day/staff/katlyn copy.md",
+		"/Users/samkap/GitHub/austin-demo-day/images/staff/_staff.md",
+		"/Users/samkap/GitHub/austin-demo-day/workshops.md",
+		"/Users/samkap/GitHub/austin-demo-day/cohorts/spring/students/daniel_s.md",
+		"/Users/samkap/GitHub/austin-demo-day/_includes/head.html",
+		"/Users/samkap/GitHub/austin-demo-day/_layouts/cohort.html",
+		"/Users/samkap/GitHub/austin-demo-day/_sass/_base.scss",
+		"/Users/samkap/GitHub/austin-demo-day/_sass/_type.scss",
+		"/Users/samkap/GitHub/austin-demo-day/front-end-engineering.md",
+		"/Users/samkap/GitHub/austin-demo-day/scripts/scripts.js",
+		"/Users/samkap/GitHub/austin-demo-day/_includes/footer.html",
+		"/Users/samkap/GitHub/austin-demo-day/ruby-on-rails.md",
+		"/Users/samkap/GitHub/austin-demo-day/_site/index.html",
+		"/Users/samkap/GitHub/austin-demo-day/cohorts/spring/students/dawn.md",
+		"/Users/samkap/GitHub/austin-demo-day/_site/css/main.css",
+		"/Users/samkap/GitHub/austin-demo-day/_config.yml",
+		"/Users/samkap/GitHub/austin-demo-day/design.md",
+		"/Users/samkap/GitHub/austin-demo-day/_sass/_color.scss",
+		"/Users/samkap/GitHub/austin-demo-day/_sass/_syntax-highlighting.scss",
+		"/Users/samkap/GitHub/austin-demo-day/cohorts/spring/students/_student.md",
+		"/Users/samkap/GitHub/samkap.github.io/_layouts/cohort.html",
+		"/Users/samkap/GitHub/csszen/css/style.css",
+		"/Users/samkap/GitHub/csszen/index.html",
+		"/Users/samkap/GitHub/csszen/css/style.scss",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/_site/README.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/_sass/_type.scss",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/31A3C528-2702-49A0-9AB1-CF2212510370/about.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/D278C9DC-ADAB-47F4-BF17-A70A36AA3E83/alpha-rules.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/21D5067C-ED34-4E04-A039-99714FDF01ED/coming-soon.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/74C64910-2BC8-4853-BA8F-626EC1E2EF93/how-to-play.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/634FDD85-E366-4514-B5B3-BC77EFDE2183/index.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/BCB899EB-F77B-49FE-A1B9-F84F66008AF1/preview.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/F1AF3093-E0F1-4F9D-9C75-E39A7127A366/scoring.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/69FA4C5C-7EDF-49DD-A006-EF24E0805D41/alpha-rules.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/F473F923-2357-4BAA-A1E0-4BA2B84CE6BD/scoring.html",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/CB0F0A0B-0C79-4DB4-BA34-6E904B7034CD/look.css",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week5/24.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week5/index.md",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/6053642A-ED30-4389-9635-43285B2F290C/home.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/B19B94C4-5692-4308-AE2F-5472707D40E1/header.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/90C77D04-A3F2-40AD-BAE1-B1AC80B7BB4D/post.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/696B6A91-55B5-4DAD-AE7A-1F83DAB0ACE0/home.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/9638B5C1-CDA0-4733-8E75-0BCAB4B13E60/posts.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/1B3D1925-CD18-4F7C-9948-B5E26EE8BE1D/post.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/3819753E-1272-4A84-A6B3-B02980497713/posts.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/139248C4-60FE-46A6-8EC3-AEEBFF2E5E01/projects.php",
+		"/Users/samkap/Library/Caches/Cleanup At Startup/Transmit/F0A3201A-89BF-47DE-B89C-9ABF6F93CB19/post.php",
+		"/Users/samkap/Downloads/Chrome/Pico-master/index.php",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week5/16.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/assignments/20.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/assignments/20b.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week4/20.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week4/18.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week4/16.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week4/17.md",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/_site/week4/17.html",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/css/style.scss",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/_includes/header.html",
+		"/Users/samkap/GitHub/_wd-jan-2015/tiy-austin-wd-jan2015.github.io/week4/index.md"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-align",
+			"font-align:",
+			"box",
+			"<p>",
+			"web",
+			"m20",
+			"/p",
+			"<p",
+			"nav",
+			"italic",
+			"weight:",
+			"logo",
+			"0.7",
+			"def",
+			"de",
+			"about",
+			"li",
+			"container",
+			"13",
+			"43em",
+			"all",
+			"footer",
+			"course-",
+			"course",
+			"co",
+			"grid",
+			"student-info",
+			"bio",
+			"media",
+			"student",
+			"clas=",
+			"multiples",
+			"family",
+			"din",
+			"h2",
+			"h1",
+			"h2",
+			"adelle",
+			"margin: 0 auto;",
+			"h2",
+			"h1",
+			"post-link",
+			"h5",
+			"post",
+			"h2",
+			"li",
+			"content-width",
+			"checkout",
+			"(",
+			"h2",
+			"league"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<p class=\"intro\">",
+			"",
+			"/span",
+			"<span",
+			"0.85",
+			"class=",
+			"h3"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_sass/_grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								859
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "week3/13.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "week3/14.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2176,
+								2176
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1565.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
